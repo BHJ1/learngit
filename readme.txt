@@ -1,2 +1,5 @@
-LGPL许可证是LESSER GENERAL PUBLIC LICENSE的简写
-Creating a new branch is quick.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+Creating a new branch is quick & simple.
