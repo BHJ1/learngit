@@ -1,2 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the MIT.
+LGPL许可证是LESSER GENERAL PUBLIC LICENSE的简写
